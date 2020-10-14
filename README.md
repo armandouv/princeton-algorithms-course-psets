@@ -1,2 +1,2 @@
-# princeton-algorithms-course-exercises
+# princeton-algorithms-course-psets
 Problem sets from Princeton's Coursera Algorithms course
